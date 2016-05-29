@@ -1,1 +1,1 @@
-登录应用：通过将用户信息存放至session中， 并通过拦截器HandlerInterceptor进行拦截请求，以确保非登录用户不能访问到相应资源
+登录应用：通过将用户信息存放至session/cookies中， 并通过拦截器HandlerInterceptor/过滤器filter进行拦截请求，以确保非登录用户不能访问到相应资源
