@@ -17,13 +17,6 @@
         <aspectj.version>1.8.4</aspectj.version>
         <xom.version>1.1</xom.version>
 
-        <!-- 同程中间件 -->
-        <dal.version>1.0.5</dal.version>
-        <turbomq.client.version>3.2.6</turbomq.client.version>
-        <tcdsf.consumer.version>1.0.3</tcdsf.consumer.version>
-        <dubbo.version>3.0.0</dubbo.version>
-        <skynet.version>2.1.0-RELEASE</skynet.version>
-
         <mybatis.version>3.2.8</mybatis.version>
         <mybatis.spring.version>1.2.4</mybatis.spring.version>
         <resteasy.version>3.0.7.Final</resteasy.version>
